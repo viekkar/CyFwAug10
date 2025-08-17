@@ -1,0 +1,6 @@
+{
+    "addToCartButton": ".btn_primary.btn_inventory",
+    "shoppingPageCounter": ".shopping_cart_badge",
+    "shoppingCartLink": ".shopping_cart_link",
+    "backToProductsButton": ".inventory_details_back_button"
+}

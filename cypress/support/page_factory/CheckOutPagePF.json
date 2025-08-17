@@ -1,0 +1,9 @@
+{
+    "shoppingPageCounter": ".shopping_cart_badge",
+    "shoppingCartLink": ".shopping_cart_link",
+    "continueToFinishButton": ".btn_primary.cart_button",
+    "firstName":"#first-name",
+    "lastName":"#last-name",
+    "postalCode":"#postal-code",   
+    "cancelButton":".cart_cancel_link"
+}

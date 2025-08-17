@@ -19,10 +19,13 @@ And("clicks the login button", () => {
   loginPage.clickLoginButton();
 });
 
-// Then("the user should be redirected to the dashboard", () => {
+Then("the user should be redirected to the dashboard", () => {
+  loginPage.validateDashboard();
+});
 
-// });
+Then("user login to the application", () => {
+  cy.Login();
+});
+ 
 
-// And("a welcome message should be displayed", () => {
-// });
 

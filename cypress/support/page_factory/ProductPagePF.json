@@ -1,0 +1,5 @@
+{
+    "addToCartButton": ".btn_primary.btn_inventory",
+    "shoppingPageCounter": ".shopping_cart_badge",
+    "shoppingCartLink": "path"
+}
